@@ -1,4 +1,4 @@
-
+![capa](https://lh3.googleusercontent.com/pw/AP1GczOcreVSSoBcND3dW-toYhJGXX3hAWINbx6aDjXU7QJ76vcT5D1AHQCA-V3y-pGiNQ1InZWdKkvBT8af2P90WC4u5ZNLlUHX21yflmxD1Bl9wqo9Mg4JzpKS0F0XJrIvsD2FuVYa77p-74aV2VjickTaBro5azWZ1Bk6Hup1epNnELYehkkiVB4SgXfIrtdf_6-BqEuf-yzpr1QE0oZS4UE5M8LBga3vtPVmN9Ak-4_gjWHiTyirrt3nv438skK5awnB6ledOMpmlN7JE-ULwAg5qSqapC-EPWi7suwMDj7qOgvRHdsCJRQ13wZ37uvdO7XmQ7KbfC_iB04ab1ZFMfM9-Sl9cPs7HXly8w1zCvc0BIOcxLIVLicQBMqsk84bBsxgjaFzrnK0t0vVw_SnUaQoZV53iRj4vWhgW2You7jR43MB_sI1SDk0XOQJfAGkqLS001FRmldh7-rzkqiFWHaw8PJcCMD8tWY_NZDxzyjfrSl1FToBGq6QbR2DqSpdlVXBdnEXXl__4t1w_xEPcVEZWyobYiFrNftU3IvkK4T5QHKigcP7IN9vIO349JCs03sXJ5vodkxF9-mMdN5nyOwYvl5f769orhWXl6QEld7ZUByvKFoEI0cnaBBn9cjTXSRslfLzlkbFZpNbd7TV9z5b_8twuu5dFj-zGCS2zioGZyJUaHtvQSs8RzOzLe7s2w-qehct4gQgo22vRhoT6AVQUqtO7dPu7I4bzcqlQGd3-iBXT7yv5HZtKvMKlpq-zx7dgOq8J8mQZR_nsb9Oc5V5X52S74etQMel7lqNNYffprOKXGpqwOIvfHRzP2VotkY2ohNVrA3-uNZd5G-PIg4VK3hQxlgdkuzTJzVGcSqD1d-cK8vmOs1YpesfMoPmiiN6vZtUA9acnWZLtnIsllhmuGBi2ZB9L9wGREvzLf2jEjg-6wgiBzdlzHVoJitE9BeDrFmW28wwldu3weQHGw7h9wqbBbWbM5w=w1625-h914-s-no-gm?authuser=0)
 
 </br>
 </br>
@@ -66,5 +66,5 @@ Sou uma profissional apaixonada por tecnologia e inovação. Sou formada em Sist
 </br>
 </br>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="60"></a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354127/numpy.svg" alt="Numpy" height="60"></a>
 <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas"height="60"></a>
+<a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java"height="60"></a>
