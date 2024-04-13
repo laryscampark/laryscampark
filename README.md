@@ -50,9 +50,9 @@ Sou uma profissional apaixonada por tecnologia e inovação. Sou formada em Sist
 </br>
 <p align="center">
   <a href="https://github.com/laryscampark">
-    <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=laryscampark&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=1800"/>
-    <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laryscampark&layout=compact&langs_count=8&theme=algolia&cache_seconds=1800"/>
-</a>
+    <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=laryscampark&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=600"/>
+    <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laryscampark&layout=compact&langs_count=8&theme=algolia&cache_seconds=600"/>
+  </a>
 </p>
 
 </br>
