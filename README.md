@@ -12,7 +12,7 @@
 
 ---
 
-### eai?!
+### 
 
 Sou uma profissional apaixonada por tecnologia e inovação. Sou formada em Sistemas de Informação pela FAETERJ Paracambi e técnica em Informática pela FAETEC, campus Paracambi. Atualmente, estou ampliando meus horizontes acadêmicos na pós-graduação em Engenharia de Dados.❤
 
